@@ -1,0 +1,9 @@
+$mainColor:red;
+$bgcolor: lightpink;
+
+main {
+    h2 {
+        color: $mainColor;
+        background-color: $bgcolor;
+    }
+}
